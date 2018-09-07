@@ -10,7 +10,7 @@
 #endif
 
 // * If you want to use the Kana key you can enable this comment out. However, the binary size may be over. *
-// #define KANA_ENABLE
+#define KANA_ENABLE
 
 extern keymap_config_t keymap_config;
 
